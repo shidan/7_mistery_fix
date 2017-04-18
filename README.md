@@ -1,10 +1,10 @@
 # Quadratic Equations Solver
 
-[TODO. There will be project description]
+Calculation of roots of quadratic equations
 
 # How to Use
 
-[TODO]
+Transfer 3 coefficient functions get_roots() in module quadratic_equation.py
 
 # How to Launch Tests
 
